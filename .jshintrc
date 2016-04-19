@@ -1,6 +1,6 @@
 {
   "node"               : true,
-  "es3"                : true,
+  "esnext"             : true,
   "strict"             : true,
   "curly"              : true,
   "eqeqeq"             : true,
